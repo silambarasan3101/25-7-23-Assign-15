@@ -1,0 +1,21 @@
+ Merge Sort:
+      1.Merge Sort is also based on divide and conquer approach to sort an array of elements.
+ Quick Sort: 
+         Quick Sort is faster.
+
+      1.Quick sort algorithm follows the divide and conquer approach to sort an array of elements. 
+      2.First it will choose the pivot element, pivot element is selected by the algorithm to proceed with the sorting.
+
+
+
+Time Complexity of Quick Sort is O(n log n).
+Merge Sort is more faster and efficient than quick sort when the array size is smaller.
+And Quick Sort is more faster and efficient than merge sort when the array size is larger.
+
+
+Advantages of Quick Sort:
+1.Higher Efficiency.
+2.Easy to implement.
+Disadvantages of Quick Sort:
+1.Worst Case Complexity.
+Poor Pivot Selection.
